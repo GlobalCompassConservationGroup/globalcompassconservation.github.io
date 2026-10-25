@@ -1,0 +1,10 @@
+{
+  "name": "LunaCycle 13×28",
+  "short_name": "LunaCycle",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f2e8",
+  "theme_color": "#173c3b",
+  "description": "Private 13×28 menstrual and lunar cycle tracker"
+}
